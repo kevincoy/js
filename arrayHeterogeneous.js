@@ -1,0 +1,1 @@
+var myArray = [33, true, "Moon"];
